@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yopiw</h1>
-<h3 align="center">Student From SKARIGA 3 MALANG</h3>
-
 - 🔭 I’m currently working on [JS, PY Encrypt](t.me/chiyoPy)
 
 - 📫 How to reach me **nishikawaspiker4@gmail.com**
